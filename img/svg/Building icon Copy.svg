@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="24" viewBox="0 0 20 24">
+  <g id="Building_icon_Copy" data-name="Building icon Copy" transform="translate(0 0)">
+    <path id="Fill_1" data-name="Fill 1" d="M20,24H0V6H1.538V1.5H5.385V0H6.923V1.5h3.847V6h7.692V9H20V24Zm-6.153-3.754h3.076V22.5h1.539v-3H13.846V18h4.615V16.5H13.846V15h4.615V13.5H13.846V12h4.615V10.5H12.307v12h1.539V20.247Zm-10.769,0H6.923V22.5h3.847V7.5H1.538v15H3.077V20.247ZM12.307,7.5V9h4.615V7.5ZM3.077,3V6H9.23V3Z" transform="translate(0 0)"/>
+    <path id="Fill_2" data-name="Fill 2" d="M0,1.5H3.846V0H0Z" transform="translate(3.846 3.75)"/>
+    <path id="Fill_3" data-name="Fill 3" d="M0,1.5H6.149V0H0Z" transform="translate(3.077 9)"/>
+    <path id="Fill_4" data-name="Fill 4" d="M0,1.5H6.149V0H0Z" transform="translate(3.077 12)"/>
+    <path id="Fill_5" data-name="Fill 5" d="M0,1.5H6.149V0H0Z" transform="translate(3.077 15)"/>
+    <path id="Fill_6" data-name="Fill 6" d="M0,1.5H6.149V0H0Z" transform="translate(3.077 18)"/>
+  </g>
+</svg>
