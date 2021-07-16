@@ -2051,7 +2051,7 @@ body._lock {
   }
 
   .start {
-    padding-bottom: calc(15px + 145 * ((100vw - 320px) / 840));
+    padding-bottom: calc(30px + 130 * ((100vw - 320px) / 840));
   }
 
   .start__header {
