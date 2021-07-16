@@ -1,17 +1,18 @@
 const myAnime = () => {
-  if (window.innerWidth > 1023) {
-    const btnParent = document.querySelector('.intro__bottom');
-    const btnMove   = btnParent.querySelector('.intro__btn');
-  
-    btnMove.addEventListener('click', (e) => {
-      e.preventDefault();
-      const move   = btnMove.getAttribute('href').replace('#', '');
-      const moveTo = document.getElementById(move);
-      moveTo.scrollIntoView({
-        behavior: 'smooth'
-      });
+
+  const btnParent = document.querySelector('.intro__bottom');
+  const btnMove   = btnParent.querySelector('.intro__btn');
+
+  btnMove.addEventListener('click', (e) => {
+    e.preventDefault();
+    const move   = btnMove.getAttribute('href').replace('#', '');
+    const moveTo = document.getElementById(move);
+    moveTo.scrollIntoView({
+      behavior: 'smooth'
     });
-  
+  });
+
+  if (window.innerWidth > 1023) {
     let tl = gsap.timeline();
   
     tl.from(".intro__title", {duration: 0.8, y: 120, opacity: 0})
