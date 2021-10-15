@@ -4,13 +4,13 @@
 
 ### Stack:
 * Gulp-4;
-* CSS Flexbox;
-* CSS Grid Layout;
-* CSS @Keyframes Animations;
-* JavaScript;
-* GSAP (GreenSock Animation Platform);
-* BEM methodology;
-* Responsive, partially elastic and cross-browser layout;
+* CSS Flexbox
+* CSS Grid Layout
+* CSS @Keyframes Animations
+* JavaScript
+* GSAP (GreenSock Animation Platform)
+* BEM methodology
+* Responsive, partially elastic and cross-browser layout.
 
 ---
 
