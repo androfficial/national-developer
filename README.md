@@ -6,7 +6,7 @@
 * JavaScript
 * GSAP (GreenSock Animation Platform)
 * BEM methodology
-* Responsive, partially elastic and cross-browser layout.
+* Responsive, elastic and cross-browser layout.
 
 ---
 
