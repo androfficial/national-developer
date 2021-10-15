@@ -6,9 +6,9 @@
 * Gulp-4
 * CSS Flexbox
 * CSS Grid Layout
+* CSS @Keyframes Animations
 * JavaScript
 * GSAP (GreenSock Animation Platform)
-* CSS @Keyframes Animations
 * BEM methodology
 
 ---
