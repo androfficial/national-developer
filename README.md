@@ -1,7 +1,3 @@
-# site-2
-
----
-
 ### Stack:
 * Gulp-4;
 * CSS Flexbox
