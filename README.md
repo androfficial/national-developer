@@ -4,6 +4,9 @@
 
 ### Stack:
 * CSS Flexbox
+* CSS Grid Layout
+* JavaScript
+* BEM methodology
 
 ---
 
