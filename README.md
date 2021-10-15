@@ -8,6 +8,7 @@
 * CSS Grid Layout
 * JavaScript
 * GSAP (GreenSock Animation Platform)
+* CSS @Keyframes Animations
 * BEM methodology
 
 ---
