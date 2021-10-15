@@ -6,6 +6,7 @@
 * CSS Flexbox
 * CSS Grid Layout
 * JavaScript
+* Gulp-4
 * GSAP (GreenSock Animation Platform)
 * BEM methodology
 
