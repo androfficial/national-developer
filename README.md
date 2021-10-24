@@ -5,5 +5,6 @@
 * JavaScript
 * GSAP (GreenSock Animation Platform)
 * @Keyframes Animations
+* SCSS
 * BEM methodology
-* Responsive, elastic and cross-browser layout.
+* Responsive, adaptive and cross-browser layout
