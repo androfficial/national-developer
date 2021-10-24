@@ -1737,6 +1737,12 @@ body._lock {
   }
 }
 
+@media (max-width: 1500px) {
+  .news ._deco-1 {
+    display: none;
+  }
+}
+
 @media (max-width: 1380px) {
   .safety ._deco-1,
   .safety ._deco-2 {
@@ -2149,10 +2155,6 @@ body._lock {
 
   .start__bottom {
     margin-top: 15px;
-  }
-
-  .news ._deco-1 {
-    display: none;
   }
 }
 
